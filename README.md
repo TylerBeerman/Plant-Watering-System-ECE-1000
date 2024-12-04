@@ -8,3 +8,4 @@ Dominic Duong - Computer Engineering Major Sophomore
 Tyler Beerman - Electrical Engineering Major Freshman
 ## Project Documentation
 ![Completed Project Circuitry](Pictures/Actual_Wiring.jpeg?raw=true "Title")
+![Video Demonstration](Pictures/Actual_Wiring.jpeg?raw=true "Title")
