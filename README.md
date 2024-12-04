@@ -6,3 +6,5 @@ This project's goal was to read the moisture level in the soil, and report it ba
 Dominic Duong - Computer Engineering Major Sophomore
 
 Tyler Beerman - Electrical Engineering Major Freshman
+## Project Documentation
+![Completed Project Circuitry](relative%20path/to/img.jpg?raw=true "Title")
