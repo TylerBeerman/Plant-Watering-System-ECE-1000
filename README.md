@@ -8,4 +8,4 @@ Dominic Duong - Computer Engineering Major Sophomore
 Tyler Beerman - Electrical Engineering Major Freshman
 ## Project Documentation
 ![Completed Project Circuitry](Pictures/Actual_Wiring.jpeg?raw=true "Title")
-<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+<img src="https://github.com/TylerBeerman/Plant-Watering-System-ECE-1000/blob/main/Video%20Demo/Video%2004%20Dec%2024%2015%C2%B719%C2%B744.mp4" width=50% height=50%>
