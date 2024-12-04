@@ -1,7 +1,8 @@
 # ECE 1000 Automatic Plant Watering System trial mk1
 # Tyler Beerman, tmbeerman42@tntech.edu & Dominic Duong, dlduong42@tntech.edu
 
-# Introduction:
+# Introduction: We decided to do the automatic plant watering system for Dr. Bhattacharya's ECE 1000 course. 
+# We chose this project because Tyler has a plant and we thought this would be a project that we could use even after this class ends.
 
 from PicoBreadboard import LED, BUZZER, BUTTON
 from machine import ADC, Pin
